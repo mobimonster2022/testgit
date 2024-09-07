@@ -1,9 +1,9 @@
-<<<<<<< Updated upstream
 Hi this is from Aaditya Awasthi.
-=======
+
 hello bhavesh made chagnes
->>>>>>> Stashed changes
 
 This is from Demo branch.
 
 Hi please approve this Bhavesh sir.
+
+removed legacy conflict annotations.
